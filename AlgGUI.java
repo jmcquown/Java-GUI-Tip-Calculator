@@ -1,7 +1,7 @@
 //John McQuown
 //December 22, 2014 1:32 AM
 //The main program for the algorithmic GUI
-//Plan to implement many different algorithms that I learned in CS 0441 and maybe other simple ones
+
 
 import javax.swing.*;
 import java.awt.*;
